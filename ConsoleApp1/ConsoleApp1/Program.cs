@@ -228,7 +228,7 @@ class Program
         listObject.ListOfSweets.Add(p1);
         listObject.ListOfSweets.Add(p2);
         listObject.ListOfSweets.Add(p3);
-        listObject.ListOfSweets.Add(p3);
+        listObject.ListOfSweets.Add(p4);
 
 
         foreach (IPrint p in listObject.ListOfSweets)
